@@ -1,2 +1,2 @@
-# midiToNSF
-MIDI to NSF(Nintendo Sound Format) converter project
+# Real Piano Tracker
+Wrap a video with real Piano performance up in MIDI file!
